@@ -46,4 +46,4 @@ SliceStats makes pizza data fun and actionable! Whether you're a data scientist,
 
 **Owner:** Soundarya-Boguda
 
-Feel free to fork, contribute, or use SliceStats for your own pizza analytics adventure!
+
